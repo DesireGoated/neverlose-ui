@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ImInsane-1337/neverlose-ui/refs/heads/main/source/library.lua"))()
+local Library = loadstring(game:HttpGet("https://github.com/DesireGoated/neverlose-ui/blob/main/source/library.lua"))()
 local CheatName = "MyProject"
 
 Library.Folders = {
